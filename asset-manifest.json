@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pjyoti121/capstone.git/static/css/main.9506c653.chunk.css",
+    "main.js": "/pjyoti121/capstone.git/static/js/main.a17e5441.chunk.js",
+    "main.js.map": "/pjyoti121/capstone.git/static/js/main.a17e5441.chunk.js.map",
+    "runtime-main.js": "/pjyoti121/capstone.git/static/js/runtime-main.28dbacaa.js",
+    "runtime-main.js.map": "/pjyoti121/capstone.git/static/js/runtime-main.28dbacaa.js.map",
+    "static/js/2.151c5ae7.chunk.js": "/pjyoti121/capstone.git/static/js/2.151c5ae7.chunk.js",
+    "static/js/2.151c5ae7.chunk.js.map": "/pjyoti121/capstone.git/static/js/2.151c5ae7.chunk.js.map",
+    "index.html": "/pjyoti121/capstone.git/index.html",
+    "static/css/main.9506c653.chunk.css.map": "/pjyoti121/capstone.git/static/css/main.9506c653.chunk.css.map",
+    "static/js/2.151c5ae7.chunk.js.LICENSE.txt": "/pjyoti121/capstone.git/static/js/2.151c5ae7.chunk.js.LICENSE.txt",
+    "static/media/Destination1.b43b40eb.png": "/pjyoti121/capstone.git/static/media/Destination1.b43b40eb.png",
+    "static/media/Destination2.64eec980.png": "/pjyoti121/capstone.git/static/media/Destination2.64eec980.png",
+    "static/media/Destination3.b4028caa.png": "/pjyoti121/capstone.git/static/media/Destination3.b4028caa.png",
+    "static/media/Destination4.c19a433b.png": "/pjyoti121/capstone.git/static/media/Destination4.c19a433b.png",
+    "static/media/Destination5.8db742a0.png": "/pjyoti121/capstone.git/static/media/Destination5.8db742a0.png",
+    "static/media/Destination6.b43b40eb.png": "/pjyoti121/capstone.git/static/media/Destination6.b43b40eb.png",
+    "static/media/avatarImage.d37df039.jpeg": "/pjyoti121/capstone.git/static/media/avatarImage.d37df039.jpeg",
+    "static/media/hero.decd6e52.png": "/pjyoti121/capstone.git/static/media/hero.decd6e52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28dbacaa.js",
+    "static/js/2.151c5ae7.chunk.js",
+    "static/css/main.9506c653.chunk.css",
+    "static/js/main.a17e5441.chunk.js"
+  ]
+}
